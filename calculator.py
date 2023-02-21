@@ -5,6 +5,11 @@ b = input("enter second number")
 c=a+b
 print("Addition of two number is %d",c)
 
-#addition patch
+#substraction patch
 d=a-b
 print("Substraction of two number is %d",d)
+
+#multiplication patch
+e = a * b
+print("Multiplication of two number is %d",e)
+
