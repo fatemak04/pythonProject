@@ -13,3 +13,7 @@ print("Substraction of two number is %d",d)
 e = a * b
 print("Multiplication of two number is %d",e)
 
+#division patch
+f = a / b
+print("Division of two number is %d",f)
+
